@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 DaeHyeon Jeon
 
 - 👨 Frontend Developer
-- 🌱 I’m interested in Javascript, Typescript, ReactJS, and React Native.
+- 🌱 I’m interested in Javascript
 - [ RESUME ](https://www.notion.so/DaeHyeon-Jeon-3486f89ba3c740f3ae45b79172820f1c)
 
 ### 🛠 Tech Stack
