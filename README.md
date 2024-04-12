@@ -5,15 +5,13 @@
 ### 👨🏻‍💻 DaeHyeon Jeon
 
 - 👨 Frontend Developer
-- 🌱 I’m interested in Javascript, React, Typescript
+- 🌱 I’m interested in Javascript, React
 - [ RESUME ](https://www.notion.so/DaeHyeon-Jeon-3486f89ba3c740f3ae45b79172820f1c)
 
 ### 🛠 Tech Stack
 
 ![Tech Blog Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=black)
-![Tech Blog Badge](https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white)
 ![Tech Blog Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
-![Tech Blog Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
 ![Tech Blog Badge](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white)
 
 ### 📫 Career
