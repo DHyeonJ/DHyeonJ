@@ -24,7 +24,7 @@
 
 ### 📚 Projects
 
-- [칭찬을 구해요, 칭구(Web)](https://www.praising.co.kr/) - 서로에게 칭찬을 해주며 응원의 메세지를 전하는 서비스
+- [칭찬을 구해요, 칭구(Web)](https://praises.vercel.app/) - 서로에게 칭찬을 해주며 응원의 메세지를 전하는 서비스
 
 <hr />
 
