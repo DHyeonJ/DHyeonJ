@@ -10,9 +10,11 @@
 
 ### 🛠 Tech Stack
 
-![Tech Blog Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=black)
-![Tech Blog Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
-![Tech Blog Badge](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white)
+<div>
+<img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat&logo=Javascript&logoColor=white">
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=black">
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat&logo=Firebase&logoColor=white">
+</div>
 
 ### 📫 Career
 
@@ -25,6 +27,7 @@
 ### 📚 Projects
 
 - [칭찬을 구해요, 칭구(Web)](https://praises.vercel.app/) - 서로에게 칭찬을 해주며 응원의 메세지를 전하는 서비스
+- [MCY(Web-PWA)](https://mokchun-youth.netlify.app/) - 교회 출석부 서비스
 
 <hr />
 
