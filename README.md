@@ -6,7 +6,7 @@
 
 - 👨 Frontend Developer
 - 🌱 I’m interested in Javascript, React
-- [ RESUME ](https://www.notion.so/DaeHyeon-Jeon-3486f89ba3c740f3ae45b79172820f1c)
+- [ RESUME ](https://luck-cornet-bed.notion.site/DaeHyeon-Jeon-9f740576c52f4e0a985e2e4f4fbffd19)
 
 ### 🛠 Tech Stack
 
