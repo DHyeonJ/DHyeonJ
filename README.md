@@ -1,7 +1,7 @@
 ### 👨🏻‍💻 DaeHyeon Jeon
 
 - 👨 QC Engineer
-// - 🌱 I’m interested in Javascript, React, TypeScript
+- 🌱 I’m interested in Javascript, React, TypeScript
 - [ RESUME ](https://luck-cornet-bed.notion.site/DaeHyeon-Jeon-149d7877cb5f805d8e67fa794273a559)
 
 ### 🛠 Tech Stack
