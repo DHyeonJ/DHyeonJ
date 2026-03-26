@@ -1,7 +1,7 @@
 ### 👨🏻‍💻 DaeHyeon Jeon
 
-- 👨 Frontend Developer
-- 🌱 I’m interested in Javascript, React, TypeScript
+- 👨 QC Engineer
+// - 🌱 I’m interested in Javascript, React, TypeScript
 - [ RESUME ](https://luck-cornet-bed.notion.site/DaeHyeon-Jeon-149d7877cb5f805d8e67fa794273a559)
 
 ### 🛠 Tech Stack
@@ -29,11 +29,11 @@
 - [MCY(Web-PWA)](https://github.com/ykss/mcy.git) - 교회 출석부 서비스
 - [칭찬을 구해요, 칭구(Web)](https://praises.vercel.app/) - 서로에게 칭찬을 해주며 응원의 메세지를 전하는 서비스
 
-<hr />
-
-![DHyeonJ GitHub stats](https://github-readme-stats.vercel.app/api?username=DHyeonJ&theme=dark&show_icons=true)
-
 ### 💬 Contact & Links
 - 📧 **Email**: [eogus724@gmail.com](mailto:eogus724@gmail.com)
 - 💼 **LinkedIn**: [전대현 (DaeHyeon Jeon)](https://www.linkedin.com/in/daehyeon-jeon-3a5155266/)
 - 📸 **SNS**: [@persimmon__i](https://www.instagram.com/persimmon__i)
+
+<hr />
+
+![DHyeonJ GitHub stats](https://github-readme-stats.vercel.app/api?username=DHyeonJ&theme=dark&show_icons=true)
