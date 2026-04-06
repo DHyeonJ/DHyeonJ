@@ -15,8 +15,8 @@
 
 ### 📫 Career
 
-- [Mfra](http://mfra.co.kr/) | System Developer (21.10 ~ 23.03)
 - [와이즈스톤티](https://www.wisestone-t.com/?gad_source=1&gad_campaignid=22841678775&gbraid=0AAAAA9bzP6vRkVZpXmuL-LsgT5Gdtmlq0&gclid=CjwKCAiA2svIBhB-EiwARWDPjtgYQpIKtOpVIwm4uqOpK2B6BLeGnHZHlQ5LzG-u-Os_lRC2Jy6wTBoCQCkQAvD_BwE) | QC (25.09 ~    )
+- [Mfra](http://mfra.co.kr/) | System Developer (21.10 ~ 23.03)
 
 ### ⚡ Activity
 
